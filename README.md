@@ -2,7 +2,7 @@
 Microenvironment-Guided Discovery and Validation of Plant Protein Interactomes
 
 ### Project Structure
-
+```
 Micro-PPI/
 ├── assets/          # Images, diagrams, or static files for documentation
 ├── configs/         # Configuration files (e.g., hyperparameters, paths)
@@ -11,6 +11,7 @@ Micro-PPI/
 ├── results/         # Output  prediction results
 ├── scripts/         # Utility scripts (data preprocessing, analysis)
 └── README.md        # Project documentation
+```
 
 ### Installation
 ```

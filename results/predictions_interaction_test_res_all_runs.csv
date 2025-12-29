@@ -1,0 +1,6 @@
+run_idx,dataset_tag,Protein_A_Index,Protein_B_Index,protein_A_ids,protein_B_ids,Prediction,probs
+0,all_test_interaction_test_res_run0_20251217,4,6,Q96514,Q9MA79,1,0.9999809
+0,all_test_interaction_test_res_run0_20251217,2,5,Q8L960,Q9LZP9,1,0.99998116
+0,all_test_interaction_test_res_run0_20251217,1,9,Q24JN5,Q9ZU52,1,0.9999968
+0,all_test_interaction_test_res_run0_20251217,0,3,O22914,Q8LA13,1,0.9999192
+0,all_test_interaction_test_res_run0_20251217,7,8,Q9SAJ4,Q9SIH1,1,0.9999931
