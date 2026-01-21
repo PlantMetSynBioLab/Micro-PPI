@@ -295,8 +295,8 @@ def data_processing_new(df,dataset,path):
     r_edge_list = []
     k_edge_list = []
     i = 0
-    url_pdb = "/data/dengrui/codebase/DeepPPI/swissprot_pdb_v4_20250603_unzipped"
-    all_for_assign = np.loadtxt("/data/dengrui/codebase/DeepPPI/data_1/process_data_string/all_assign.txt")
+    url_pdb = "../data/pdb/"
+    all_for_assign = np.loadtxt("../data/all_assign.txt")
     # 文件路径
     rball_file = path+"{}_graphprotein.rball.edges.{}.npy".format(dataset,dataset)
     knn_file = path+"{}_graphprotein.knn.edges.{}.npy".format(dataset,dataset)
